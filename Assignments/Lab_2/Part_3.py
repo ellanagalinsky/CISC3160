@@ -6,4 +6,4 @@ exclude=hourly,daily&appid=af349f763951ecf1e4ec9395b38aa701')
 
 print(response)
 
-#af349f763951ecf1e4ec9395b38aa701
+#af349f763951ecf1e4ec9395b38aa701 
